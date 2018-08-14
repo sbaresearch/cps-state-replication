@@ -6,6 +6,6 @@ CPS State Replication is an implementation of the replication mode of [CPS Twinn
 
 First, install [Scala](https://www.scala-lang.org/download/). Then, set the path to the AML file and the Kafka connection settings in the [configuration file](src/main/resources/application.conf). An exemplary specification in AML can be found in the [CPS Twinning](https://github.com/sbaresearch/cps-twinning/blob/master/misc/specification/CandyFactory.aml) repository. Finally, build the application with sbt.
 
-## Usage
+## Disclaimer
 
 Note that this project is only a proof of concept. As a consequence, there are currently many areas that need improvements. In particular, the functionality of the AutomationML parser is currently limited and may require manual adjustments.
