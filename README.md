@@ -9,3 +9,7 @@ First, install [Scala](https://www.scala-lang.org/download/). Then, set the path
 ## Disclaimer
 
 Note that this project is only a proof of concept. As a consequence, there are currently many areas that need improvements. In particular, the functionality of the AutomationML parser is currently limited and may require manual adjustments.
+
+## How to Cite
+
+If you use CPS State Replication in your research, please consider citing our [CPS-SPC '18](http://doi.acm.org/10.1145/3264888.3264892) publication. Feel free to use the paper's [BibTeX entry](misc/Eckhart2018a.bib).
